@@ -1,0 +1,1 @@
+create table precos_ligacao_ddd (id integer Primary key, origem varchar(3), destino varchar(3), preco numeric);
